@@ -13,8 +13,3 @@
 	url = https://github.com/ge11232002/cner
 	shallow = true
 	registered = true
-[submodule "TFBSTools"]
-	path = TFBSTools
-	url = https://github.com/ge11232002/tfbstools
-	shallow = true
-	registered = true
