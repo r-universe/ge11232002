@@ -1,12 +1,12 @@
 [
   {
-    "package": "TFMPvalue",
-    "oncran": true
+    "package": "TFBSTools"
   },
   {
     "package": "CNEr"
   },
   {
-    "package": "TFBSTools"
+    "package": "TFMPvalue",
+    "oncran": true
   }
 ]
