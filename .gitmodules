@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CNEr"]
-	path = CNEr
-	url = https://github.com/ge11232002/cner
-[submodule "TFBSTools"]
-	path = TFBSTools
-	url = https://github.com/ge11232002/tfbstools
 [submodule "TFMPvalue"]
 	path = TFMPvalue
 	url = https://github.com/ge11232002/tfmpvalue
